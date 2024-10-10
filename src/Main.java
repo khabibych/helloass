@@ -62,6 +62,6 @@ public class Main {
         var totallyNew = totally + 94;
         System.out.println(totallyNew);
         var hoursNew = totallyNew * workDay;
-        System.out.println("Если в компании работает" + " " + totallyNew + " " + "человека, то всего" + " " + hoursNew + " " + "часов работы может быть поделено между сотрудниками!!");
+        System.out.println("Если в компании работает" + " " + totallyNew + " " + "человека, то всего" + " " + hoursNew + " " + "часов работы может быть поделено между сотрудниками!!!");
     }
 }
